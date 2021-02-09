@@ -269,3 +269,8 @@ git add .
 git commit -m "12 tund"
 git push
 exit
+git status
+git init
+git add .
+git commit -m "1 tund"
+exit
