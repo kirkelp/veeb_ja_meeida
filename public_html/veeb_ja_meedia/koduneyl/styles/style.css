@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+    color: rgb(98, 98, 100);
+    font-family: arial;
+    background-image: url("../../img/top_right_01_transparent.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+h1, h2, h3 {
+    color: black;
+}
+
+section {
+    background-color: rgba(172, 158, 145, 0.5);
+    background-image: url("../../img/hibiscus.png"),url("../../img/hibiscus.png"),url("../../img/hibiscus.png"),url("../../img/hibiscus.png"); 
+    background-position: left top, right top, bottom left, bottom right;
+    background-repeat: no-repeat;
+    background-size: 50px;
+}
+nav {
+    background-color: hsl(240, 2%, 54%);
+}

@@ -274,3 +274,9 @@ git init
 git add .
 git commit -m "1 tund"
 exit
+git status
+git commit -m "tund2"
+git add .
+git commit -m "tund 2"
+git push
+exit

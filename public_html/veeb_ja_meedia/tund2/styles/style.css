@@ -15,7 +15,7 @@ h1, h2, h3 {
 section {
     background-color: rgba(151, 91, 91, .5);
     background-image: url("../../img/top_left_01_transparent.png"), url("../../img/top_right_01_transparent.png"); 
-    background-position: left top, bottom right;
+    background-position: right top, bottom right;
     background-repeat: no-repeat;
     background-size: 50px;
 }
